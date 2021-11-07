@@ -37,6 +37,7 @@ module.exports = {
     'no-continue': "off",
     'no-underscore-dangle': ["off", { allowFunctionParams: true }],
     'no-plusplus': ['warn', { allowForLoopAfterthoughts: true }],
+    "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": ["warn"],
     '@typescript-eslint/no-unused-expressions': 'off',
     '@typescript-eslint/no-shadow': 'off',
