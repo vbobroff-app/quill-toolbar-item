@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vbobroff-app/quill-toolbar-item.git"
+    "url": "https://github.com/vbobroff-app/quill-toolbar-item.git"
   },
   "keywords": [
     "quill",
