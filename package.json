@@ -1,8 +1,8 @@
 {
   "name": "quill-toolbar-item",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Quill editor module representing a toolbar item",
-  "main": "main.js",
+  "main": "dist/main.js",
   "scripts": {
     "test": "tsc -m es6 --outDir lib-esm",
     "lint": "eslint -c ./.eslintrc.js src/ --ext .js,.ts,.jsx,.tsx --fix",
